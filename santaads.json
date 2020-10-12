@@ -1,0 +1,30 @@
+{
+  "ads": {
+    "id_app": "",
+    "flury_id":"",
+    "banner_setting": "",
+    "inter_setting": "",
+    "banner_main": "",
+    "inter_main": "",
+    "onlyAdmod": true,
+    "onlyFB": false
+  }, 
+  "app_exists": {
+    "id": "",
+    "is_exists": true,
+    "is_show_more": false,
+    "isLoading":false,
+    "isShowAds":true
+  },
+  "apps": [
+    {
+      "id": "com.sirenscarychat.headvideocall.prank.sirenheadcall",
+      "icon": "https://lh3.googleusercontent.com/naWwhEwD90hsVjecELSXLeUjACk4E5GNSzUbAkwurhNk4793ZtbTF8ypN7pUZ1s1BVq2=s180-rw",
+      "name": "Fake Video Call Scary Siren Head Prank",
+      "des": "Let started with Siren Head Call Simulation , to make a cool chat and call your friends with a amazing Siren Head Call Simulation",
+      "s1": "https://lh3.googleusercontent.com/y52XG6g_kRvmLgEnmv0VxVDe3NtGL6ukhXxZpfVQ_QXydFFUhQ5Zp32ZfxxiO_WijQ=w720-h310-rw",
+      "s2": "https://lh3.googleusercontent.com/FS97AT0qpy5_QT6jFqpeYhjBiXwxK810qZPoLSVkv8wNZzXaEKgbNp6yypz7oNVkTQU=w720-h310-rw",
+      "s3": "https://lh3.googleusercontent.com/AwB0rGuT4hxVlczx7_NK05zXtzQLQNXDN2yUncXGgRfURoNjgp6YwGrIL9zd_TKLyQ=w720-h310-rw"
+    }
+  ]
+}
